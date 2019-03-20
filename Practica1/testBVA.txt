@@ -1,0 +1,10 @@
+		...::: Test to validate grade :::...
+
+		Boundary Value Analysis(BVA)
+
+	Test Data	Expect Result	Actual Result	Pass/Fail
+
+	-1		INVALID  	INVALID	Pass
+	0		VALID  	VALID	Pass
+	10		INVALID  	VALID	Fail
+	11		VALID  	INVALID	Fail

@@ -1,0 +1,9 @@
+		...::: Test to validate grade :::...
+
+		Equivalence Partitioning(EP)
+
+	Test Data	Expect Result	Actual Result	Pass/Fail
+
+	1		VALID  	VALID	Pass
+	3		VALID  	VALID	Pass
+	5		VALID  	VALID	Pass
